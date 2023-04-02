@@ -92,3 +92,5 @@ Open the terminal / PowerShell / CMD and apply the commands serially:
 1. check for the `GDB` version:
 
         gdb --version
+
+At last, install [`sublime text editor`](https://www.sublimetext.com/download) and copy these `build` files to the `sublime text editor`'s `tool` option directory. Select a `build` file from the `tool` option and enjoy your `CP`.
