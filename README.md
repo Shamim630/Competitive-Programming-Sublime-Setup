@@ -25,7 +25,14 @@ This setup will make your CP faster, no need to input data manually to the promp
 <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Shamim630/Competitive-Programming-Sublime-Setup">
 </p>
 
-# Install MSYS2
+# Table of Contents
+1. [Install MSYS2](#install-msys2)
+1. [Install the G++ and G++ Compilers](#install-the-g-and-g-compilers)
+1. [Install the Debugger](#install-the-debugger)
+1. [Add the Directory to the Path of the Environment Variables](#add-the-directory-to-the-path-of-the-environment-variables)
+1. [Check the Install](#check-the-install)
+
+## Install MSYS2
 At first download the executable file from MSYS2. Go to the official website of MSYS2: https://www.msys2.org/
 Scroll-down a little bit until you find the download button for the executable file.
 1. `Download and install the exeicutable.`
@@ -39,7 +46,7 @@ Scroll-down a little bit until you find the download button for the executable f
         pacman -Su
         pacman -Sy
 
-# Install the G++ and G++ Compilers
+## Install the G++ and G++ Compilers
 If you are using a 64 bit operating system
 then open `MSYS2 MinGW x64` terminal and execute the command below:
 
@@ -49,7 +56,7 @@ then open `MSYS2 MinGW x64` terminal and execute the command below:
 
         pacman -S mingw-w64-i686-gcc
 
-# Install the Debugger
+## Install the Debugger
 If you are using a 64 bit operating system then execute the command below on `MSYS2 MinGW x64` terminal :
 
         pacman -S mingw-w64-x86_64-gdb
@@ -58,7 +65,7 @@ If you are using a 64 bit operating system then execute the command below on `MS
 
         pacman -S mingw-w64-i686-gdb
 
-# Add the Directory to the Path of the Environment Variables
+## Add the Directory to the Path of the Environment Variables
 
 Click on windows button and search `Environment Variables` then open it.
 
@@ -66,13 +73,13 @@ Click on windows button and search `Environment Variables` then open it.
 
         C:\msys64\mingw64\bin
 
-    or If you are using a 32 bit operating system, then go to `mingw32 > bin` folder from `C:\` directory and copy the path or copy the path from below:
+    ⚠️ If you are using a 32 bit operating system, then go to `mingw32 > bin` folder from `C:\` directory and copy the path or copy the path from below:
 
         C:\msys64\mingw32\bin
 
 1. Click on `Path`, click `Edit`, add a   `new` path and Paste coppied directory here. Click `OK`.
 
-# Check the Install
+## Check the Install
 Open the terminal / PowerShell / CMD and apply the commands serially:
 
 1. check for the `GCC` version:
