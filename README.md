@@ -4,25 +4,25 @@ This setup will make your CP faster, no need to input data manually to the promp
  <p align="center">Get dynamically generated GitHub stats!</p>
 
 <p align="center">
-  <a href="https://github.com/Shamim630/Competitive-Programming-Sublime-Setup/actions">
+  <a href="https://github.com/vividblueprint/Competitive-Programming-Sublime-Setup/actions">
     <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg"/>
   </a>
-  <a href="https://github.com/Shamim630/Competitive-Programming-Sublime-Setup/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Shamim630/Competitive-Programming-Sublime-Setup"/>
+  <a href="https://github.com/vividblueprint/Competitive-Programming-Sublime-Setup/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/vividblueprint/Competitive-Programming-Sublime-Setup"/>
   </a>
-  <a href="https://github.com/Shamim630/Competitive-Programming-Sublime-Setup/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/Shamim630/Competitive-Programming-Sublime-Setup?color=0088ff"/>
+  <a href="https://github.com/vividblueprint/Competitive-Programming-Sublime-Setup/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/vividblueprint/Competitive-Programming-Sublime-Setup?color=0088ff"/>
   </a>
-  <a href="https://github.com/Shamim630/Competitive-Programming-Sublime-Setup/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Shamim630/Competitive-Programming-Sublime-Setup?color=0088ff">
+  <a href="https://github.com/vividblueprint/Competitive-Programming-Sublime-Setup/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vividblueprint/Competitive-Programming-Sublime-Setup?color=0088ff">
   </a>
   <br />
-<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Shamim630/Competitive-Programming-Sublime-Setup?color=green">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Shamim630/Competitive-Programming-Sublime-Setup?color=302df0">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Shamim630/Competitive-Programming-Sublime-Setup">
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Shamim630/Competitive-Programming-Sublime-Setup?color=0088ff">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Shamim630/Competitive-Programming-Sublime-Setup?color=00ff00f">
-<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Shamim630/Competitive-Programming-Sublime-Setup">
+<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/vividblueprint/Competitive-Programming-Sublime-Setup?color=green">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vividblueprint/Competitive-Programming-Sublime-Setup?color=302df0">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vividblueprint/Competitive-Programming-Sublime-Setup">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/vividblueprint/Competitive-Programming-Sublime-Setup?color=0088ff">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vividblueprint/Competitive-Programming-Sublime-Setup?color=00ff00f">
+<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/vividblueprint/Competitive-Programming-Sublime-Setup">
 </p>
 
 # Table of Contents
